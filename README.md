@@ -4,7 +4,7 @@
 
 *This requires manually modifying partitions on your device, if you are not comfortable with Windows Disk Manager and managing partitions leave now. **I will not be responsible if you brick your phone!** *
 
-- Download the [EFIESP.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/EFIESP.zip) and [OSData.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/OSData.zip) packages for later
+- Download the [EFIESP.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/EFIESP.zip) and [OSData.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/OSData.zip) packages for later, and the [MainOS.wim](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/MainOS.wim) and [Data.wim](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/Data.wim) files
 - Flash FFU (optional as all data will be wiped anyway)
 - Unlock Bootloader
 - Enter Mass Storage Mode with WPInternals
