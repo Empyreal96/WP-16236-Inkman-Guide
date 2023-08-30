@@ -13,7 +13,8 @@
 - Format ONLY `MainOS` and `Data` Partitions as NTFS.
 - Use `DISM` to apply MainOS.wim and Data.wim to respective partitions
 ```
-// D:\ is my example for the MainOS Drive, Highly suggested to save the .wim files somewhere easy like `C:\Inkman` //
+// D:\ is my example for the MainOS Drive,
+Highly suggested to save the .wim files somewhere easy like `C:\Inkman` //
 
 dism /Apply-Image /ImageFile:C:\Inkman\MainOS.wim /Index:1 /ApplyDir:D:\
 
