@@ -2,7 +2,7 @@
 
 *Please note, this build is not a replacement for W10M, it's **very** barebones and only contains the Reference Composer and Diagnostic Composer. I have been unsuccessful in installing third party apps to this build*
 
-*This requires manually modifying partitions on your device, if you are not comfortable with Windows Disk Manager and managing partitions leave now. **I will not be responsible if you brick your phone!** *
+*This requires manually modifying partitions on your device, if you are not comfortable with Windows Disk Manager and managing partitions leave now. **I will not be responsible if you brick your phone!***
 
 - Download the [EFIESP.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/EFIESP.zip) and [OSData.zip](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/OSData.zip) packages for later, and the [MainOS.wim](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/MainOS.wim) and [Data.wim](https://github.com/Empyreal96/WP-16236-Inkman-Guide/releases/download/0.1/Data.wim) files
 - Flash FFU (optional as all data will be wiped anyway)
