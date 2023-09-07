@@ -36,6 +36,8 @@ bcdedit /store "D:\EFIESP\EFI\Microsoft\Boot\BCD" /set {default} flightsigning o
 - Boot and hope for the best
 
 
+![](IMG20230819132115.jpg) ![](IMG20230819132055.jpg)
+
 
 
 Thanks to Ritsu909 for providing the original OS dump
